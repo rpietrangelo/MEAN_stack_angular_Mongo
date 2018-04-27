@@ -1,0 +1,23 @@
+{
+  "name": "angular_mean",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000E\u0000A\u0000N\u0000_\u0000s\u0000t\u0000a\u0000c\u0000k\u0000_\u0000a\u0000n\u0000g\u0000u\u0000l\u0000a\u0000r\u0000_\u0000M\u0000o\u0000n\u0000g\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpietrangelo/MEAN_stack_angular_Mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpietrangelo/MEAN_stack_angular_Mongo/issues"
+  },
+  "homepage": "https://github.com/rpietrangelo/MEAN_stack_angular_Mongo#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  }
+}
